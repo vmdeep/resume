@@ -4,7 +4,7 @@ Senior Developer
 Sberbank-Technology
 Sberbank-Technology is a subcompany of Sberbank and the second large IT company in Russia.
 Jun 2012 - Present
-Responsibilities:
+Responsibilities: developing  bank's software, leading small team (7 pers.), organizing software development.
 
 
 Senior Developer

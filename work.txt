@@ -1,25 +1,35 @@
 WORKING EXPERIENCE
+
 Senior Developer
 Sberbank-Technology
-„астное предпри€тие; 1001-5000 сотрудников; ќтрасль: »нформационные технологии и услуги
-июнь 2012 г. Ц насто€щее врем€ (1 год 5 мес€цев)
+Sberbank-Technology is a subcompany of Sberbank and the second large IT company in Russia.
+Jun 2012 - Present
+Responsibilities:
+
 
 Senior Developer
 AMARGO
-ќткрытое акционерное предпри€тие; 11-50 сотрудников; ќтрасль: »нтернет-технологии
-август 2011 г. Ц июнь 2012 г. (11 мес€цев)
+AMARGO is successful start-up project for online travel.
+Avg 2011- Jun 2012
+Responsibilities: developing, bug fixing and optimizing web front-end,
+developing cache engine and web statistic subsystem, leading  small team (3 pers.).
 
 Developer
-ќќќ "»ј“¬“"
-июль 2008 г. Ц сент€брь 2011 г. (3 года 3 мес€ца) ћосква, –осси€
+IATVT
+IATVT is a company that develop software for travel and aircraft industry.
+Jul 2008 - Sep 2011
+Responsibilities: developing new products, bug fixing, mentoring new employees.
+
 
 Officer
 UniCredit
-„астное предпри€тие; Ѕолее 10000 сотрудников; ќтрасль: Ѕанковское дело
-окт€брь 2007 г. Ц июнь 2008 г. (9 мес€цев) —тавропольский край, –осси€
+UniCredit is an Italian global banking and financial services company.
+Oct 2007 - Jun 2008
+Responsibilities: working at IT Help Desk, administering servers.
 
 ATM Engineer
 VTB
-ќткрытое акционерное предпри€тие; 5001-10 000 сотрудников; VTBR; ќтрасль: Ѕанковское дело
-декабрь 2006 г. Ц окт€брь 2007 г. (11 мес€цев) —тавропольский край, –осси€
+VTB Bank is one of the leading universal banks of Russia. 
+Dec 2006 - Oct 2007
+Responsibilities: finding and fixing ATM software and hardware bugs.
 

@@ -1,3 +1,6 @@
 WORKING SKILLS
-Java,  JavaScript,  Java Enterprise Edition,  Core Java,  Perl, Oracle PL/SQL Development,  SQL,  HTML,  CSS,  
-Web Applications, Web 2.0,  WebSphere Application Server,  Tomcat  Apache,  Apache 2, Nginx,  FreeBSD,  Red Hat Linux.
+Languages: Java, JavaScript, Perl, Oracle PL/SQL,  SQL,  HTML,  CSS.
+Technologies: Web Applications, Web 2.0, Java Enterprise Edition,  Core Java,  AJAX.
+Software: WebSphere Application Server,  Tomcat  Apache,  Apache 2, Nginx.
+Systems: FreeBSD,  Red Hat Linux. 
+Development Tools: Ant, GIT, SVN, Eclipse.

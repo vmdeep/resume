@@ -7,7 +7,7 @@ Jun 2012 - Present
 Responsibilities:
 - Designed and developed Java (Light ORM) and JavaScript-based(UI & AJAX) frameworks for in-house usage.
 - Participated in the creation of the architecture and migration legacy software from two-tier architecture to three-tier   architecture. 
-- Organize team software development process.
+- Organized development process.
 - Provide leadership and mentoring to team of engineers.
 - Integrated workflow and Business Process Management (BPM) platform.
 Technical Environment:

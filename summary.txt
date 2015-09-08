@@ -1,1 +1,9 @@
+Experience Summary:
+
+- 9+ years of extensive experience in architecture, design and development of distributed systems, scientific, e-commerce, ERP,   WEB 2.0 applications and frameworks.
+- 5+ years of experience as full stack web developer.
+- Excellent knowledge of XML, XSL, XML parsers, REST and SOAP.
+- Solid background in Object-Oriented analysis and design. Very good at various Design Patterns.
+- Expert level skills in Designing and Implementing web servers solutions and deploying Java Application Servers like WebSphere   and Apache Tomcat.
+- Comprehensive knowledge of RDBMS like Oracle Database.
 

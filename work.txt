@@ -35,7 +35,6 @@ Technical Environment:
 - NGINX & Apache Tomcat
 - Linux
 
-
 Developer
 IATVT
 IATVT is a company that develop software for travel and aircraft industry.
@@ -50,8 +49,6 @@ Technical Environment:
 - Javascript & AJAX
 - Perl
 - Unix(FreeBSD) & Windows
-
-
 
 System Engineer
 UniCredit

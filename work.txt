@@ -4,24 +4,56 @@ Senior Developer
 Sberbank-Technology
 Sberbank-Technology is a subcompany of Sberbank and the second large IT company in Russia.
 Jun 2012 - Present
-Responsibilities: developing  bank's software, leading small team (7 pers.), organizing software development.
-
+Responsibilities:
+- Designed and developed Java (Light ORM) and JavaScript-based(UI & AJAX) frameworks for in-house usage.
+- Participated in the creation of the architecture and migration legacy software from two-tier architecture to three-tier      architecture. 
+- Organize team software development process.
+- Provide leadership and mentoring to team of engineers.
+- Integrated workflow and Business Process Management (BPM) platform.
+Technical Environment:
+- Java Core
+- Java EE 
+- Oracle Database 11/12
+- Javascript & AJAX
+- IBM WebSphere 7, Apache Tomcat, NGINX
+- Unix(Linux, AIX) & Windows 
 
 Senior Developer
 AMARGO
 AMARGO is successful start-up project for online travel.
-Avg 2011- Jun 2012
-Responsibilities: developing, bug fixing and optimizing web front-end,
-developing cache engine and web statistic subsystem, leading  small team (3 pers.).
+Avg 2011 - Jun 2012
+Responsibilities:
+- Developed smart cache engine for high loaded air ticket search system.
+- Designed and maintained web statistic and analytic subsystem.
+- Fixed bugs in web front-end as in server back-end.
+- Collaborated with external international suppliers to resolve conflicting system needs.
+- Optimized ESB subsystem in order to achieve better performance and responsibility for end-users.
+Technical Environment:
+- Java EE 
+- Oracle Database 11
+- Javascript & AJAX
+- NGINX & Apache Tomcat
+- Linux
+
 
 Developer
 IATVT
 IATVT is a company that develop software for travel and aircraft industry.
 Jul 2008 - Sep 2011
-Responsibilities: developing new products, bug fixing, mentoring new employees.
+Responsibilities:
+- Developed web-based three-tired application for delivery service.
+- Coached new employees in order to develop their work experience. 
+- Participated in ERP sub-system development.
+Technical Environment:
+- Java EE 
+- Oracle Database 8/11
+- Javascript & AJAX
+- Perl
+- Unix(FreeBSD) & Windows
 
 
-Officer
+
+System Engineer
 UniCredit
 UniCredit is an Italian global banking and financial services company.
 Oct 2007 - Jun 2008

@@ -6,18 +6,21 @@ Currently reside in Moscow, Russia
 Email: vmdeep2@gmail.com
 Skype : vmdeep
 
-EXPERIENCE SUMMARY:
-- 9+ years of extensive experience in architecture, design and development of distributed systems, scientific, e-commerce, ERP,   WEB 2.0 applications and frameworks.
+EXPERIENCE SUMMARY
+
+- 9+ years of extensive experience in architecture, design and development of distributed systems, web-based three-tiered enterprise application, ERP, e-commerce software and frameworks.
 - 5+ years of experience as full stack web developer.
+- Solid background in Object-Oriented analysis and design.
+- Expert level skills in Designing and implementing web server’s solutions.
 - Excellent knowledge of XML, XSL, XML parsers, REST and SOAP.
-- Solid background in Object-Oriented analysis and design. Very good at various Design Patterns.
-- Expert level skills in Designing and Implementing web servers solutions and deploying Java Application Servers like WebSphere   and Apache Tomcat.
+- Very good at various Design Patterns.
 - Comprehensive knowledge of RDBMS like Oracle Database.
 
 WORKING SKILLS
+
 Languages: Java, JavaScript, Perl, Oracle PL/SQL,  SQL,  HTML,  CSS.
-Technologies: Web Applications, Web 2.0, Java Enterprise Edition,  Core Java,  AJAX.
-Software: WebSphere Application Server,  Tomcat  Apache,  Apache 2, Nginx.
+Technologies: Web Applications, Web 2.0, Java Enterprise Edition, Core Java,  AJAX.
+Software: WebSphere Application Server, Tomcat, Apache 2, Nginx.
 Systems: FreeBSD, Linux. 
 Development Tools: Ant, GIT, SVN, Eclipse.
 
@@ -25,7 +28,7 @@ WORKING EXPERIENCE
 
 Senior Developer
 Sberbank-Technology
-Sberbank-Technology is a subcompany of Sberbank and the second large IT company in Russia.
+Sberbank-Technology is a sub company of Sberbank and the second large IT Company in Russia.
 Jun 2012 - Present
 Responsibilities:
 - Designed and developed Java (Light ORM) and JavaScript-based(UI & AJAX) frameworks for in-house usage.
@@ -38,14 +41,14 @@ Technical Environment:
 - Java Core
 - Java EE 
 - Oracle Database 11/12
-- Javascript & AJAX
+- JavaScript & AJAX
 - IBM WebSphere 7, Apache Tomcat, NGINX
 - Unix(Linux, AIX) & Windows 
 
 Senior Developer
 AMARGO
 AMARGO is successful start-up project for online travel.
-Avg 2011 - Jun 2012
+Aug 2011 - Jun 2012
 Responsibilities:
 - Developed smart cache engine for high loaded air ticket search system.
 - Designed and maintained web statistic and analytic subsystem.
@@ -55,22 +58,22 @@ Responsibilities:
 Technical Environment:
 - Java EE 
 - Oracle Database 11
-- Javascript & AJAX
+- JavaScript & AJAX
 - NGINX & Apache Tomcat
 - Linux
 
 Developer
 IATVT
-IATVT is a company that develop software for travel and aircraft industry.
+IATVT is a company that develops software for travel and aircraft industry.
 Jul 2008 - Sep 2011
 Responsibilities:
-- Developed web-based three-tired application for delivery service.
+- Developed web-based three-tiered application for delivery service.
 - Coached new employees in order to develop their work experience. 
 - Participated in ERP sub-system development.
 Technical Environment:
 - Java EE 
 - Oracle Database 8/11
-- Javascript & AJAX
+- JavaScript & AJAX
 - Perl
 - Unix(FreeBSD) & Windows
 
@@ -87,11 +90,13 @@ Dec 2006 - Oct 2007
 Responsibilities: finding and fixing ATM software and hardware bugs.
 
 EDUCATION
+
 Master of Computer Applications (M.C.A.), Information Technology,
 North Caucasus State Technical University, 
 Information Technologies and Telecommunications Faculty,
 Automated systems of information processing and management department, graduate (2001-2006).
 
 LANGUAGES
-- RUSSIAN Native Laguage.
+
+- RUSSIAN Native Language.
 - ENGLISH Good reading, writing and speaking ability.

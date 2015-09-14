@@ -1,1 +1,97 @@
 
+ANDREW LICHMAN
+
+Date of birth: 6 Dec 1983
+Currently reside in Moscow, Russia
+Email: vmdeep2@gmail.com
+Skype : vmdeep
+
+EXPERIENCE SUMMARY:
+- 9+ years of extensive experience in architecture, design and development of distributed systems, scientific, e-commerce, ERP,   WEB 2.0 applications and frameworks.
+- 5+ years of experience as full stack web developer.
+- Excellent knowledge of XML, XSL, XML parsers, REST and SOAP.
+- Solid background in Object-Oriented analysis and design. Very good at various Design Patterns.
+- Expert level skills in Designing and Implementing web servers solutions and deploying Java Application Servers like WebSphere   and Apache Tomcat.
+- Comprehensive knowledge of RDBMS like Oracle Database.
+
+WORKING SKILLS
+Languages: Java, JavaScript, Perl, Oracle PL/SQL,  SQL,  HTML,  CSS.
+Technologies: Web Applications, Web 2.0, Java Enterprise Edition,  Core Java,  AJAX.
+Software: WebSphere Application Server,  Tomcat  Apache,  Apache 2, Nginx.
+Systems: FreeBSD, Linux. 
+Development Tools: Ant, GIT, SVN, Eclipse.
+
+WORKING EXPERIENCE
+
+Senior Developer
+Sberbank-Technology
+Sberbank-Technology is a subcompany of Sberbank and the second large IT company in Russia.
+Jun 2012 - Present
+Responsibilities:
+- Designed and developed Java (Light ORM) and JavaScript-based(UI & AJAX) frameworks for in-house usage.
+- Participated in the creation of the architecture for enterprise web applications.
+- Migrated legacy software from two-tier architecture to three-tier architecture.
+- Organized development process.
+- Provide leadership and mentoring to team of engineers.
+- Integrated workflow and Business Process Management (BPM) platform.
+Technical Environment:
+- Java Core
+- Java EE 
+- Oracle Database 11/12
+- Javascript & AJAX
+- IBM WebSphere 7, Apache Tomcat, NGINX
+- Unix(Linux, AIX) & Windows 
+
+Senior Developer
+AMARGO
+AMARGO is successful start-up project for online travel.
+Avg 2011 - Jun 2012
+Responsibilities:
+- Developed smart cache engine for high loaded air ticket search system.
+- Designed and maintained web statistic and analytic subsystem.
+- Fixed bugs in web front-end as in server back-end.
+- Collaborated with external international suppliers to resolve conflicting system needs.
+- Optimized ESB subsystem in order to achieve better performance and responsibility for end-users.
+Technical Environment:
+- Java EE 
+- Oracle Database 11
+- Javascript & AJAX
+- NGINX & Apache Tomcat
+- Linux
+
+Developer
+IATVT
+IATVT is a company that develop software for travel and aircraft industry.
+Jul 2008 - Sep 2011
+Responsibilities:
+- Developed web-based three-tired application for delivery service.
+- Coached new employees in order to develop their work experience. 
+- Participated in ERP sub-system development.
+Technical Environment:
+- Java EE 
+- Oracle Database 8/11
+- Javascript & AJAX
+- Perl
+- Unix(FreeBSD) & Windows
+
+System Engineer
+UniCredit
+UniCredit is an Italian global banking and financial services company.
+Oct 2007 - Jun 2008
+Responsibilities: working at IT Help Desk, administering servers.
+
+ATM Engineer
+VTB
+VTB Bank is one of the leading universal banks of Russia. 
+Dec 2006 - Oct 2007
+Responsibilities: finding and fixing ATM software and hardware bugs.
+
+EDUCATION
+Master of Computer Applications (M.C.A.), Information Technology,
+North Caucasus State Technical University, 
+Information Technologies and Telecommunications Faculty,
+Automated systems of information processing and management department, graduate (2001-2006).
+
+LANGUAGES
+- RUSSIAN Native Laguage.
+- ENGLISH Good reading, writing and speaking ability.
